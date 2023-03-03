@@ -1,0 +1,10 @@
+Login 
+
+user name - admin
+pw - admin123
+
+
+login will open student_info
+
+
+register is only for show with only alert box
